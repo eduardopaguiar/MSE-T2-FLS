@@ -9,6 +9,6 @@ The package contains:
 
 Please cite this paper if the code helps.
 
-For any queries about the codes, please contact Prof. Eduardo Pestana de Aguiar (eduardo.aguiar@engenharia.ufjf.br)
+For any queries about the codes, please contact Prof. Eduardo Pestana de Aguiar (eduardo.aguiar@engenharia.ufjf.br).
 
-Programmed by Eduardo Pestana de Aguiar
+Programmed by Eduardo Pestana de Aguiar.
