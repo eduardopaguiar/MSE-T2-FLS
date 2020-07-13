@@ -3,7 +3,7 @@ Codes related to the paper "A New Model to Distinguish Railhead Defects Based on
 
 The package contains:
 
-1. The original images adopted in this paper;
+1. The original images adopted in this paper (Images.rar);
 2. The feature extraction based on GLCM (GLCM.m);
 3. All MSE T2-FLS codes required to replicate the results obtained in this paper.
 
